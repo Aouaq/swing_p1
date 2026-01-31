@@ -160,14 +160,14 @@ public class Main extends javax.swing.JFrame {
                     Session session = Session.getInstance(properties, new Authenticator() {
                         @Override
                         protected PasswordAuthentication getPasswordAuthentication() {
-                            return new PasswordAuthentication("yourmail@gmail.com", "1234 hihi hihi po0p ");
+                            return new PasswordAuthentication("yourmailbro@gmail.com", "1234 hihi hihi po0p ");
                         }
                     });
 
                     try {
 
                         Message message = new MimeMessage(session);
-                        message.setFrom(new InternetAddress("yourmail@gmail.com"));
+                        message.setFrom(new InternetAddress("yourmailbro@gmail.com"));
                         message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(email));
                         message.setSubject("Récupération de mot de passe");
                         String messageContent = "Bonjour,\n\nVotre nouveau mot de passe est : " + nouveauMotDePasse + "\n\nCordialement,";
