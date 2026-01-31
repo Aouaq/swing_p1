@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/services/StageService.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/dao/IUserDao.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/test/Test.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/beans/Encadrant.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/gui/EtudiantForm.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/gui/MDIApplication.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/services/EncadrantService.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/services/UserService.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/beans/User.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/beans/AffectationStage.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/dao/IDao.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/gui/Barchart.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/gui/EtudiantByStage.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/services/AffectationStageService.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/services/EtudiantService.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/gui/EncadrantForm.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/connexion/Connexion.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/beans/Etudiant.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/beans/Stage.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/gui/StageForm.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/gui/AffectationStage.java</file>
+            <file>file:/C:/Users/XPS/Documents/NetBeansProjects/gestion_stage_main/src/gui/StageBySujet.java</file>
+        </group>
+    </open-files>
+</project-private>
